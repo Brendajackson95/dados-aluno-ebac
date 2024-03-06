@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Brenda
+-Profissão: Designer Gráfico
+-Cidade: São Leopoldo
+-O que faz nas horas vaga: Estudo, assisto séries, vou em eventos de cosplay.
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante apesar de ter pouco tempo para estudar, algumas aulas são bem extensas e cansativas haha
+-Feedback sobre a plataforma de estudo da EBAC: para eu está ok!
 
-Obrigado!!!
-
-
+Obrigado!!! 
